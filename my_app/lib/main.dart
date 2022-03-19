@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+import 'components/bottom_navigation.dart';
 import 'components/home_scr.dart';
 
 void main() {
@@ -17,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: BottomNavigation(),
     );
   }
 }
