@@ -17,30 +17,48 @@ class newsCard extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: const EdgeInsets.only(right: 20, bottom: 10),
+      height: 300,
+      margin: const EdgeInsets.only(right: 20, bottom: 30),
       child: Material(
         borderRadius: const BorderRadius.all(Radius.circular(30)),
         elevation: 4,
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
           mainAxisSize: MainAxisSize.max,
           children: [
             Flexible(
                 fit: FlexFit.tight,
                 child: ClipRRect(
+
                     borderRadius: const BorderRadius.vertical(top: Radius.circular(20)), child: Image.network(imgUrl,
-                  width: 370,
+                  width: 350,
                   fit: BoxFit.cover,
                 ))),
+            SizedBox(
+              height: 10,
+            ),
             Flexible(
                 fit: FlexFit.tight,
                 child: Column(
                   children: const [
                     Text('data'),
+                    SizedBox(
+                      height: 5,
+                    ),
                     Text('data'),
+                    SizedBox(
+                      height: 5,
+                    ),
                     Text('data'),
+                    SizedBox(
+                      height: 5,
+                    ),
                     Text('data'),
+                    SizedBox(
+                      height: 5,
+                    ),
                     Text('data'),
-                    SizedBox(height: 16,)
+                    SizedBox(height: 5,)
                   ],
                 ))
           ],
@@ -62,19 +80,19 @@ class _HomePage extends State<HomePage> {
         children: <Widget>[
           // menu(context),
           Positioned(
-            top: 0,
+            top: 62,
             height: height * 0.35,
             left: 0,
             right: 0,
             child: ClipRRect(
-                borderRadius: const BorderRadius.vertical(
-                  bottom: Radius.circular(40),
+                borderRadius: const BorderRadius.all(
+                   Radius.circular(10),
                 ),
                 child: Image.network('https://cdn.tgdd.vn/2020/05/campaign/butter-640x360.jpg',fit: BoxFit.cover,)
             ),
           ),
           Positioned(
-            top:height * 0.38,
+            top:height * 0.45,
             left: 0,
             right: 0,
             child: SizedBox(
@@ -82,12 +100,13 @@ class _HomePage extends State<HomePage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
-                  Padding(padding: const EdgeInsets.only(bottom: 8, left: 12, right: 15),
+                  Padding(padding: const EdgeInsets.only(bottom: 0, left: 12, right: 15),
                     child:
                     Text(
                       'Recommended for you',
                       style: GoogleFonts.lato(
-                        textStyle:  const TextStyle(color: Colors.blueGrey, letterSpacing: .5, fontSize: 17, fontWeight: FontWeight.w700),
+                        textStyle:  const TextStyle(color: Colors.red, letterSpacing: .5, fontSize: 20, fontWeight: FontWeight.bold,
+                        ),
                       ),
                     ),
                   ),
@@ -97,7 +116,8 @@ class _HomePage extends State<HomePage> {
                       child:Row(
                         children: <Widget>[
                           const SizedBox(
-                            width:10 ,
+
+                            width:10,
                           ),
                           for (int i = 0; i< listUrl.length; i++)
                             newsCard(imgUrl: listUrl.elementAt(i))
