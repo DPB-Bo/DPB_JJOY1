@@ -2,7 +2,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:my_app/components/fake_data.dart';
+import 'package:my_app/util/fake_data.dart';
 import 'package:my_app/components/home_scr.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
