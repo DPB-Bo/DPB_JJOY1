@@ -1,6 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:my_app/screens/detail_news.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 import '../screens/runes_scr.dart';
@@ -70,12 +71,9 @@ class _HomePage extends State<HomePage> {
                 (BuildContext context, int i) {
                   return GestureDetector(
                     onTap: () {
-                      // Navigator.push(
-                      //   context,
-                      //   MaterialPageRoute(builder: (context) => RunesPage()),
-                      // );
                       Navigator.of(context).push(MaterialPageRoute(
-                          builder: (BuildContext context) => RunesPage()));
+                          builder: (BuildContext context) =>
+                              const DetailNews()));
                     },
                     child: NewsItem(newsObject: listData[i]),
                   );
