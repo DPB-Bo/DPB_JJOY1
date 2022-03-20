@@ -70,10 +70,12 @@ class _HomePage extends State<HomePage> {
                 (BuildContext context, int i) {
                   return GestureDetector(
                     onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(builder: (context) => RunesPage()),
-                      );
+                      // Navigator.push(
+                      //   context,
+                      //   MaterialPageRoute(builder: (context) => RunesPage()),
+                      // );
+                      Navigator.of(context).push(MaterialPageRoute(
+                          builder: (BuildContext context) => RunesPage()));
                     },
                     child: NewsItem(newsObject: listData[i]),
                   );
