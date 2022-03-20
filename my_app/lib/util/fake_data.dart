@@ -1,5 +1,6 @@
 import 'package:faker/faker.dart';
 
+import '../models/herotype.dart';
 import '../models/news.dart';
 
 class FakeDataUtility {
@@ -51,6 +52,17 @@ class FakeDataUtility {
           Faker().date.time(), Faker().person.name()),
       News(Faker().lorem.word(), Faker().lorem.sentence(), getImageUrl(),
           Faker().date.time(), Faker().person.name()),
+    ];
+  }
+
+  List<HeroTypeFilter> getHeroTypeFilter() {
+    return [
+      HeroTypeFilter('XẠ THỦ', false),
+      HeroTypeFilter('ĐẤU SĨ', false),
+      HeroTypeFilter('SÁT THỦ', false),
+      HeroTypeFilter('PHÁP SƯ', false),
+      HeroTypeFilter('TRỢ THỦ', false),
+      HeroTypeFilter('ĐỠ ĐÒN', false),
     ];
   }
 }
