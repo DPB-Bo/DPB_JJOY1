@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:my_app/components/item_search_comps.dart';
 
 import '../components/filter_search_comps.dart';
 import '../util/fake_data.dart';
@@ -32,11 +33,12 @@ class _ItemsPage extends State<ItemsPage> {
                     FilerSearchComponent(
                       filterControl:
                           fakeDataService.getFilterSearchControlForItemPage(),
-                    )
+                    ),
                   ],
                 ),
               )
-            ]))
+            ])),
+            ItemSearchComponent(listData: fakeDataService.getAllItem())
           ],
         ));
   }

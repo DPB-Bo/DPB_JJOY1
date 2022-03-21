@@ -17,7 +17,6 @@ class ItemSearchComponent extends StatefulWidget {
 class _ItemSearchComponentState extends State<ItemSearchComponent> {
   @override
   Widget build(BuildContext context) {
-    final size = MediaQuery.of(context).size;
     return FutureBuilder<List<dynamic>>(
         future: widget.listData,
         builder: (context, snapshot) {

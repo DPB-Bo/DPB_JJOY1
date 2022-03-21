@@ -1,0 +1,2 @@
+Widget "tái sử dụng" được đặt ở components
+enum là 1  kiểu dữ liệu "tập hợp" các hằng số , ex:  filter_search_type

@@ -1,9 +1,11 @@
 import 'dart:developer';
 
 import 'package:faker/faker.dart';
+import 'package:my_app/components/item_search_comps.dart';
 import 'package:my_app/enum/filter_search_type.dart';
 import 'package:my_app/enum/item_type.dart';
 import 'package:my_app/enum/rune_type.dart';
+import 'package:my_app/models/item.dart';
 
 import '../enum/hero_type.dart';
 import '../models/filter_search_crtl.dart';
@@ -100,5 +102,13 @@ class FakeDataUtility {
     var tagObjsJson = jsonDecode(await a)['heros'] as List;
 
     return tagObjsJson.map((tagJson) => HeroDTO.fromJson(tagJson)).toList();
+  }
+
+  Future<List<ItemDTO>> getAllItem() async {
+    Future<String> jsonItem = rootBundle.loadString('assets/item.json');
+    var tagObjsJson = jsonDecode(await jsonItem)['items'] as List;
+
+    return tagObjsJson.map((tagJson) => ItemDTO.fromJson(tagJson)).toList();
+    //convert json file to List object
   }
 }
