@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../screens/changes_note_scr.dart';
 import '../screens/hero_wiki_scr.dart';
 import '../screens/runes_scr.dart';
+import '../util/customize_icons.dart';
 import 'home_scr.dart';
 import 'more_options_scr.dart';
 
@@ -41,15 +42,15 @@ class _BottomNavigation extends State<BottomNavigation> {
           type: BottomNavigationBarType.fixed,
           items: const [
             BottomNavigationBarItem(
-              icon: Icon(Icons.home),
-              label: 'Home',
+              icon: Icon(Icons.sticky_note_2_rounded),
+              label: 'News',
             ),
             BottomNavigationBarItem(
-                icon: Icon(Icons.sticky_note_2_rounded), label: 'Changes note'),
+                icon: Icon(WeaponIcon.axe), label: 'Weapons'),
             BottomNavigationBarItem(
                 icon: Icon(Icons.all_out_outlined), label: 'Runes'),
             BottomNavigationBarItem(
-                icon: Icon(Icons.whatshot), label: 'Hero wiki'),
+                icon: Icon(WeaponIcon.muscle_up), label: 'Hero wiki'),
             BottomNavigationBarItem(
                 icon: Icon(Icons.more_horiz), label: 'More'),
           ],

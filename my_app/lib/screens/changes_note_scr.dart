@@ -7,9 +7,11 @@ class ChangesNotePage extends StatefulWidget {
 }
 
 class _ChangesNotePage extends State<ChangesNotePage> {
+  var _selected = false;
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
+
     return Scaffold(
         backgroundColor: const Color(0xFFE9E9E9),
         body: CustomScrollView(
@@ -23,7 +25,16 @@ class _ChangesNotePage extends State<ChangesNotePage> {
                 delegate: SliverChildListDelegate(<Widget>[
               Container(
                 child: Column(
-                  children: [],
+                  children: [
+                    FilterChip(
+                        label: Text("Codesinsider"),
+                        selected: _selected,
+                        onSelected: (value) {
+                          setState(() {
+                            _selected = value;
+                          });
+                        })
+                  ],
                 ),
               )
             ]))

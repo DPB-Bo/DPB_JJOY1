@@ -73,7 +73,7 @@ class _HomePage extends State<HomePage> {
                     onTap: () {
                       Navigator.of(context).push(MaterialPageRoute(
                           builder: (BuildContext context) =>
-                              const DetailNews()));
+                              DetailNews(objNews: listData[i])));
                     },
                     child: NewsItem(newsObject: listData[i]),
                   );
