@@ -16,6 +16,7 @@ class _ItemSearchComponentState extends State<ItemSearchComponent> {
   Future<List<HeroDTO>> listHero = FakeDataUtility().getAllHero();
   @override
   Widget build(BuildContext context) {
+    final size = MediaQuery.of(context).size;
     return FutureBuilder<List<HeroDTO>>(
         future: listHero,
         builder: (context, snapshot) {
@@ -34,7 +35,7 @@ class _ItemSearchComponentState extends State<ItemSearchComponent> {
               childCount: datas.length,
             ),
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 4, childAspectRatio: 0.9, mainAxisSpacing: 4),
+                crossAxisCount: 3, childAspectRatio: 0.95, mainAxisSpacing: 3),
           );
         });
   }
@@ -46,6 +47,7 @@ class Item extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final size = MediaQuery.of(context).size;
     return Center(
       child: Padding(
         padding: EdgeInsets.all(7),
@@ -66,7 +68,7 @@ class Item extends StatelessWidget {
                           Border.all(width: 2, color: Colors.yellow.shade700)),
                   child: Ink.image(
                     alignment: Alignment.topCenter,
-                    height: 70,
+                    height: size.height * 0.11,
                     image: NetworkImage(data.imgUrl),
                     fit: BoxFit.fitWidth,
                   ),
@@ -76,7 +78,7 @@ class Item extends StatelessWidget {
                       style: GoogleFonts.roboto(
                         textStyle: const TextStyle(
                             color: Colors.black87,
-                            fontSize: 9,
+                            fontSize: 13,
                             fontWeight: FontWeight.bold),
                       )),
                 )
