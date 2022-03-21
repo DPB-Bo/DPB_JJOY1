@@ -6,19 +6,20 @@ import 'package:my_app/util/fake_data.dart';
 import '../models/hero.dart';
 
 class ItemSearchComponent extends StatefulWidget {
-  const ItemSearchComponent({Key? key}) : super(key: key);
+  final Future<List<dynamic>> listData;
+  const ItemSearchComponent({Key? key, required this.listData})
+      : super(key: key);
 
   @override
   State<ItemSearchComponent> createState() => _ItemSearchComponentState();
 }
 
 class _ItemSearchComponentState extends State<ItemSearchComponent> {
-  Future<List<HeroDTO>> listHero = FakeDataUtility().getAllHero();
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
-    return FutureBuilder<List<HeroDTO>>(
-        future: listHero,
+    return FutureBuilder<List<dynamic>>(
+        future: widget.listData,
         builder: (context, snapshot) {
           final datas = snapshot.data ?? [];
 
@@ -42,7 +43,7 @@ class _ItemSearchComponentState extends State<ItemSearchComponent> {
 }
 
 class Item extends StatelessWidget {
-  final HeroDTO data;
+  final dynamic data;
   const Item({Key? key, required this.data}) : super(key: key);
 
   @override

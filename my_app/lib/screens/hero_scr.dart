@@ -42,7 +42,7 @@ class _HeroWikiPageState extends State<HeroWikiPage> {
                 ),
               )
             ])),
-            ItemSearchComponent()
+            ItemSearchComponent(listData: fakeDataService.getAllHero())
           ],
         ));
   }
