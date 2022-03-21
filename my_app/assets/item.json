@@ -1,441 +1,443 @@
-[{
-        "name": "Kiếm ngắn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon2e47616ebfaf6569b90f705b86600dc55ef41367e4354.png"
-    },
-    {
-        "name": "Dao găm",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/d0892f500e089e6e24d02a65ba5fe048583eaaa57aa96.png"
-    },
-    {
-        "name": "Găng tay",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconad6ef58a9c119afbe9fce74b3025b1c95ef413c1a087b.png"
-    },
-    {
-        "name": "Chùy máu",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b.png"
-    },
-    {
-        "name": "Chùy xích",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/a888ca6d4b74729819ffa78263621f7c583eab330ef40.png"
-    },
-    {
-        "name": "Kiếm dài",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/05beffe85dbc5379e596f4719db29918583eab4bd2b8b.png"
-    },
-    {
-        "name": "Chùy cổ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/184d423b3a6e763b0238f31b0f9b28f5583eab794ea9b.png"
-    },
-    {
-        "name": "Song đao",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/a1f25b14e89dff8b8512abda77f54c3c583eab9aa2100.png"
-    },
-    {
-        "name": "Thương đấu sĩ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/90f53ba831f13f5a01df70376b561701583eabc0c7d10.png"
-    },
-    {
-        "name": "Phi tiêu",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/2621c9b1fed23acd4be27b91dfa78e38583eac9428736.png"
-    },
-    {
-        "name": "Gươm Uriel",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icone8e8d84ac94fa585c3a9661cce80fbf159eebe5b29289.png"
-    },
-    {
-        "name": "Thương Longinus",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/e31c3c90f650c04ebdb29ea2ca200265583eacda186ed.png"
-    },
-    {
-        "name": "Kiếm Fafnir",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/96fd7b63339a3f0e510781f375eb356d583ead06b7622.png"
-    },
-    {
-        "name": "Thánh kiếm",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon48a62735ee508f6a920e823fafd9b21159eebea8e613f.png"
-    },
-    {
-        "name": "Kiếm Muramasa",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icone607457dda37172782dc9180e3cd036a59eebe79887cd.png"
-    },
-    {
-        "name": "Quỷ Kiếm",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/dac326474d6d7eb4b8f77074edb8b8cf583eaefc61eff.png"
-    },
-    {
-        "name": "Phức hợp kiếm",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/2ed0a1b9762b0eaed6ef8c26f69fabb0583eaf5e88873.png"
-    },
-    {
-        "name": "Gươm sấm sét",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/f2ae054a4509ca5bfbf6c1246d6a0e7d583eaf9d711da.png"
-    },
-    {
-        "name": "Gươm tận thế",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/fae96e865899f2e3e2cda185b58aee12583eafaae4a28.png"
-    },
-    {
-        "name": "Song đao bão táp",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/42d4233ea5d7ed2db0af6ae09c5686d9583eafd6a6f20.png"
-    },
-    {
-        "name": "Nanh Fenrir",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/7ccbeb5a9d92d6616b38fb9f8a6d697f583eb0099ad9e.png"
-    },
-    {
-        "name": "Gươm hiền triết",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/a9f9ae5e132e65a1711d6c59bb616dff583eb0417f88d.png"
-    },
-    {
-        "name": "Sách phép",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/1108678613455e7b64ca9507065db8d5583eb07ed42e9.png"
-    },
-    {
-        "name": "Nhẫn Lapis",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icona33a692bf196ac687212c8bd472e4a655ef4142a34372.png"
-    },
-    {
-        "name": "Sách thánh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/13b087b42ee35a7138a782d260cff7c9583eb099e321d.png"
-    },
-    {
-        "name": "Dây chuyền ma thuật",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon43d3c483d428cf8f1e7a4b03fff7356b5ef4143e8db34.png"
-    },
-    {
-        "name": "Nhẫn hồng ngọc",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon84752d478c1737c85f2eb77a063cb11a5ef4145c95623.png"
-    },
-    {
-        "name": "Sách cổ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/a1f23877567b4d9b450624aa7b6a99f9583eb0df82d64.png"
-    },
-    {
-        "name": "Nhẫn ma pháp",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/447da6386d8e761eea825726bd9bf224583eb1046a87b.png"
-    },
-    {
-        "name": "Sớ ma thuật",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/585ee3fa8a1f94fd26d8e0336e534609583eb11f66eac.png"
-    },
-    {
-        "name": "Gươm nguyên tố",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/73bcd25e5a2f1139dec8c7b09c8b8650583eb15c7cce9.png"
-    },
-    {
-        "name": "Giáp nhẹ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/1e01e847498a4e8ac12a56b22189783d583eb1929d05a.png"
-    },
-    {
-        "name": "Mặt nạ ma quái",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/77650eb45ea686167327f9128590dc53583eb194634c3.png"
-    },
-    {
-        "name": "Găng giác đấu",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon60c31461246a65b82f647310a13cc35b5ef41468c818d.png"
-    },
-    {
-        "name": "Phượng hoàng lệ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/16bdc639fcd2451b890a545c4b09f6e1583eb1c5c672e.png"
-    },
-    {
-        "name": "Bùa sức mạnh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon9b4b623c7f5f3db68735401591039e6e59eec0dfee3aa.png"
-    },
-    {
-        "name": "Vòng đức hạnh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/87e8108995142053f4c9404279233a20583eb207e7793.png"
-    },
-    {
-        "name": "Dây chuyền hồng ngọc",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconc297c6ca61d3e8715eea595918f2b1d15ef49a36db0c0.png"
-    },
-    {
-        "name": "Huyết trượng",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a.png"
-    },
-    {
-        "name": "Giáp chân",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/b776c4c957f4e6f1e947e06686743a8c583eb243203f7.png"
-    },
-    {
-        "name": "Trượng hỗn mang",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconb1d589bb71a28a6cb2c3f9f5bbb2e5a05976f9dd872e8.png"
-    },
-    {
-        "name": "Tim Incubus",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/d0d241f0a2a236806b000ff5241f9802583eb2a658eed.png"
-    },
-    {
-        "name": "Trượng bùng nổ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/3cdbf8caaf2dc260fd962f5d31c074c5583eb2abdcb02.png"
-    },
-    {
-        "name": "Vương miện Hecate",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/29845a83cf9ddd3d17e0fcd07aabe61e583eb2e7b1a65.png"
-    },
-    {
-        "name": "Đai kháng phép",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/72ed5eddefd9d571f0db1fc9527d2f22583eb2fa338c8.png"
-    },
-    {
-        "name": "Găng bạch kim",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/f38b144529e66db02a901c175847440b583eb3271e7d0.png"
-    },
-    {
-        "name": "Ngọc đại pháp sư",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/5e2bc1f8eb06b085df149928bb6db37f583eb34e34945.png"
-    },
-    {
-        "name": "Giáp hiệp sĩ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/8126b39e85bcfef53fad3131bafc2cd5583eb36918dac.png"
-    },
-    {
-        "name": "Quyền trượng Rhea",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/2eabc8620f02b21582e3b88ea1f95f40583eb3ad4c294.png"
-    },
-    {
-        "name": "Thổ hệ bảo thạch",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/554a76a53137974876d42d7d093170235ef2dff4d2303.png"
-    },
-    {
-        "name": "Thập Tự Kiếm",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icona69219340114945bffc9ee0648b76df659eebed145bd2.png"
-    },
-    {
-        "name": "Giáp thống khổ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/1daf820a0922c35d2b4dfe54082d35f2583eb43c655ad.png"
-    },
-    {
-        "name": "Trượng băng",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/18a94ba7877043520ad478e08bc4b0bc583eb43f03b4d.png"
-    },
-    {
-        "name": "Hercule thịnh nộ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconce863be5ae7f9884727b453959c033e159eebee5cca80.png"
-    },
-    {
-        "name": "Mặt nạ Berith",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/722dfa95e17bc0ae4fca1370b39db24e583eb4a552d90.png"
-    },
-    {
-        "name": "Giáp cuồng nộ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/f1221bb1919f19d0ffd7aa3b9d521248583eb5022028c.png"
-    },
-    {
-        "name": "Áo choàng thần Ra",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconc412f57b9e56e33473ff1a7c87f64c3c5c8b6e31b77f7.png"
-    },
-    {
-        "name": "Khiên thất truyền",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/098ae164502918650b6334ce885d7d71583eb5aa4f7e3.png"
-    },
-    {
-        "name": "Khiên huyền thoại",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/22878b0202ea24b883044a9c642d5536583eb618cf297.png"
-    },
-    {
-        "name": "Giáp Gaia",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/9f2d442bf8b0f7597bd23de1af9c1ba9583eb6859264b.png"
-    },
-    {
-        "name": "Huân chương Troy",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/7c7e5cbc16a0a12b0363ffec0dd4bbe0583eb735ebea2.png"
-    },
-    {
-        "name": "Rìu Hyoga",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon92fdc2b012f79c163ccd767f60cb57f05875dc3ded80f.png"
-    },
-    {
-        "name": "Giáp hộ mệnh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon6b6c892834f3b9840bec892627dbeedb5b87c72793cd0.png"
-    },
-    {
-        "name": "Dây chuyền lục bảo",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon8103b0d6e1a14ff19e46c13910e854115976f9749f2ac.png"
-    },
-    {
-        "name": "Áo choàng băng giá",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon55eaf54151e5f99b1442aceb380cb3cf5853663330501.png"
-    },
-    {
-        "name": "Phù chú trường sinh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icond155d1aa807b4022dd22a16cfa171d5f5853665105cd4.png"
-    },
-    {
-        "name": "Rựa thợ săn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconfaba84adb480e565d9815a2b898bb8995bcd9218e940c.jpg"
-    },
-    {
-        "name": "Gươm hiến tế",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/13ecad971cf548f39cbf6d46243665725875ecda3ef67.png"
-    },
-    {
-        "name": "Rìu Gnoll",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/059cb0940752f504cfa9c07a88362cf45875ed3ea7997.png"
-    },
-    {
-        "name": "Đao truy kích",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/65a0e3833daa8a27a33a72e7e4e7494e5875ed8cb5193.png"
-    },
-    {
-        "name": "Gươm Loki",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/e0c0df64d8c799425e512a41035121625875eeb337a46.png"
-    },
-    {
-        "name": "Rìu Leviathan",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/5cbcea0c03cb8fbcffef6706943b59095875ef42bc1b9.png"
-    },
-    {
-        "name": "Kiếm truy hồn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/962f75587871dfe385b2eed0071fd80f5875efc662a80.png"
-    },
-    {
-        "name": "Giày thép",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/de8cb12606b2dd64c2a2ae53225453395875f0551a909.png"
-    },
-    {
-        "name": "Giày hộ vệ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/0b2a528cdd009437b1635def58e353675875f09318ffd.png"
-    },
-    {
-        "name": "Giày kiên cường",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/3a856551539a716067add52f8fc65bc65875f0c7db9e5.png"
-    },
-    {
-        "name": "Giày thuật sĩ",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/114e22fe9d424beb6fe4aca5c456c5c35875f0f2d82ec.png"
-    },
-    {
-        "name": "Giày phù thủy",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/85bfb0396118e0b32f1e3f4b34911d235875f11c6208c.png"
-    },
-    {
-        "name": "Giày du mục",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/3ff001f7078fc0b3f77e9ec7b283e2735875f14d9d0a3.png"
-    },
-    {
-        "name": "Giày Hermes",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/b86b4a1e5a5c3801f0c11fd76a8cbe0c5875f18bcc5ec.png"
-    },
-    {
-        "name": "Liềm Đoạt Mệnh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/6e4830c854d7f71dd8ad51b25d9abffd5965d8cb4027d.png"
-    },
-    {
-        "name": "Cung tà ma",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconcaa38dc0fdd84ce09ed77e83e1cfb2eb5ef414c91c813.png"
-    },
-    {
-        "name": "Vuốt Hung Tàn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/c65bf282a71890970ac6880b773460945965d91139a15.png"
-    },
-    {
-        "name": "Đao Truy Hồn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon39afcfcf7b6f28bebbf64b598f7f586b59f0056b0a481.png"
-    },
-    {
-        "name": "Thương Xuyên Phá",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/b3d3556b6bd3eaf5e90b966647b6d8a75976bb54845d9.png"
-    },
-    {
-        "name": "Sách Truy Hồn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/c9420fcfd346612dd10cfc7cc3ca9b575965da11b6b36.png"
-    },
-    {
-        "name": "Cung Gió Lốc",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/3e4d4da0fbaef18cc27b280233abd8585ac48ccdb8a36.png"
-    },
-    {
-        "name": "Cung Bão Tố",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/8f835e52d8078207bb955bc2657867ba5ac48dd56f179.png"
-    },
-    {
-        "name": "Quả cầu băng sương",
-        "imgUrl": "https://lienquan.garena.vn/files/items/iconf30f58d64f6de018d472a24497b8e8475ef414dc8c893.png"
-    },
-    {
-        "name": "Thuẫn nham thạch",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icone5253595746abc893db9abe7568410315ef414f03aac1.png"
-    },
-    {
-        "name": "Nguyên tố bảo thạch",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icona78636f147efe1ac850a5495c044a9565ef2df9dd61a3.png"
-    },
-    {
-        "name": "Đại địa nguyên lực",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/7a257cce6bde176e7e710e0aaaeb10465ef2f8b17a102.png"
-    },
-    {
-        "name": "Thuỷ triều thần khiên",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/60b763f13a61cb29ef6a43d5f83d5b2a5ef301e95cf5d.png"
-    },
-    {
-        "name": "Thuỷ triều ma nhãn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/6411929987f847ee1a50d0376dcee6e65ef30214af51c.png"
-    },
-    {
-        "name": "Đại địa Mở trói",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/28fd3e2668d2bcbfcfb0388e134a80e25ef2f87b19b17.png"
-    },
-    {
-        "name": "Thuỷ hệ bảo thạch",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/e79befc0dc5eadbb756859b82c0c8c905ef2e013d5d98.png"
-    },
-    {
-        "name": "Hoả hệ bảo thạch",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/91f6ee42e1edd1ef977729ff31d0e4c95ef2e040bb69c.png"
-    },
-    {
-        "name": "Đại địa thần khiên",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/b67b4f8212056573c0ae31af73a3dc285ef2e1136191c.png"
-    },
-    {
-        "name": "Đại địa ma nhãn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/f3b7a74dd05111ef9331216f90c70d415ef2e2abc1e74.png"
-    },
-    {
-        "name": "Đại địa huỷ diệt",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icond01185c2845c8e5e0202edb04ca2d65a5ef2e6f31963b.png"
-    },
-    {
-        "name": "Băng nhẫn Skadi",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/ff28203912b57f6855013cad060d0f8f5e45355793b4d.png"
-    },
-    {
-        "name": "Xuyên tâm lệnh",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/a93be23a737e4619fa8539820f25a8725e453576be69c.png"
-    },
-    {
-        "name": "Thuỷ triều huỷ diệt",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/9de91f7581b23e62242499868a3a2faf5ef302a1694ca.png"
-    },
-    {
-        "name": "Thuỷ triều mở trói",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/c450588cbc5d5f7aac539a18501abb785ef302df5c57c.png"
-    },
-    {
-        "name": "Thuỷ triều nguyên lực",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/4a8a5c2ab2e611ae987573f6cf22605d5ef3030a55914.png"
-    },
-    {
-        "name": "Liệt hoả thần khiên",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/b63e9646af5e1909cb2b8465905cd3885ef3032d37175.png"
-    },
-    {
-        "name": "Liệt hoả ma nhãn",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/d5d11414686db1199f7b4a669bca7b745ef30351d5e27.png"
-    },
-    {
-        "name": "Liệt hoả huỷ diệt",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/33cd9eebbdf194802513e08f573ce8545ef30375c1ea1.png"
-    },
-    {
-        "name": "Liệt hoả mở trói",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/c5c25be5f179a95a8431a2a742fd4fb95ef3039ce7293.png"
-    },
-    {
-        "name": "Liệt hoả nguyên lực",
-        "imgUrl": "https://lienquan.garena.vn/files/items/icon/cac75c8d771293e91f174ab426879f835ef303cf675a8.png"
-    }
-]
+{
+    "items": [{
+            "name": "Kiếm ngắn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon2e47616ebfaf6569b90f705b86600dc55ef41367e4354.png"
+        },
+        {
+            "name": "Dao găm",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/d0892f500e089e6e24d02a65ba5fe048583eaaa57aa96.png"
+        },
+        {
+            "name": "Găng tay",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconad6ef58a9c119afbe9fce74b3025b1c95ef413c1a087b.png"
+        },
+        {
+            "name": "Chùy máu",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b.png"
+        },
+        {
+            "name": "Chùy xích",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/a888ca6d4b74729819ffa78263621f7c583eab330ef40.png"
+        },
+        {
+            "name": "Kiếm dài",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/05beffe85dbc5379e596f4719db29918583eab4bd2b8b.png"
+        },
+        {
+            "name": "Chùy cổ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/184d423b3a6e763b0238f31b0f9b28f5583eab794ea9b.png"
+        },
+        {
+            "name": "Song đao",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/a1f25b14e89dff8b8512abda77f54c3c583eab9aa2100.png"
+        },
+        {
+            "name": "Thương đấu sĩ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/90f53ba831f13f5a01df70376b561701583eabc0c7d10.png"
+        },
+        {
+            "name": "Phi tiêu",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/2621c9b1fed23acd4be27b91dfa78e38583eac9428736.png"
+        },
+        {
+            "name": "Gươm Uriel",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icone8e8d84ac94fa585c3a9661cce80fbf159eebe5b29289.png"
+        },
+        {
+            "name": "Thương Longinus",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/e31c3c90f650c04ebdb29ea2ca200265583eacda186ed.png"
+        },
+        {
+            "name": "Kiếm Fafnir",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/96fd7b63339a3f0e510781f375eb356d583ead06b7622.png"
+        },
+        {
+            "name": "Thánh kiếm",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon48a62735ee508f6a920e823fafd9b21159eebea8e613f.png"
+        },
+        {
+            "name": "Kiếm Muramasa",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icone607457dda37172782dc9180e3cd036a59eebe79887cd.png"
+        },
+        {
+            "name": "Quỷ Kiếm",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/dac326474d6d7eb4b8f77074edb8b8cf583eaefc61eff.png"
+        },
+        {
+            "name": "Phức hợp kiếm",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/2ed0a1b9762b0eaed6ef8c26f69fabb0583eaf5e88873.png"
+        },
+        {
+            "name": "Gươm sấm sét",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/f2ae054a4509ca5bfbf6c1246d6a0e7d583eaf9d711da.png"
+        },
+        {
+            "name": "Gươm tận thế",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/fae96e865899f2e3e2cda185b58aee12583eafaae4a28.png"
+        },
+        {
+            "name": "Song đao bão táp",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/42d4233ea5d7ed2db0af6ae09c5686d9583eafd6a6f20.png"
+        },
+        {
+            "name": "Nanh Fenrir",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/7ccbeb5a9d92d6616b38fb9f8a6d697f583eb0099ad9e.png"
+        },
+        {
+            "name": "Gươm hiền triết",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/a9f9ae5e132e65a1711d6c59bb616dff583eb0417f88d.png"
+        },
+        {
+            "name": "Sách phép",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/1108678613455e7b64ca9507065db8d5583eb07ed42e9.png"
+        },
+        {
+            "name": "Nhẫn Lapis",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icona33a692bf196ac687212c8bd472e4a655ef4142a34372.png"
+        },
+        {
+            "name": "Sách thánh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/13b087b42ee35a7138a782d260cff7c9583eb099e321d.png"
+        },
+        {
+            "name": "Dây chuyền ma thuật",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon43d3c483d428cf8f1e7a4b03fff7356b5ef4143e8db34.png"
+        },
+        {
+            "name": "Nhẫn hồng ngọc",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon84752d478c1737c85f2eb77a063cb11a5ef4145c95623.png"
+        },
+        {
+            "name": "Sách cổ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/a1f23877567b4d9b450624aa7b6a99f9583eb0df82d64.png"
+        },
+        {
+            "name": "Nhẫn ma pháp",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/447da6386d8e761eea825726bd9bf224583eb1046a87b.png"
+        },
+        {
+            "name": "Sớ ma thuật",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/585ee3fa8a1f94fd26d8e0336e534609583eb11f66eac.png"
+        },
+        {
+            "name": "Gươm nguyên tố",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/73bcd25e5a2f1139dec8c7b09c8b8650583eb15c7cce9.png"
+        },
+        {
+            "name": "Giáp nhẹ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/1e01e847498a4e8ac12a56b22189783d583eb1929d05a.png"
+        },
+        {
+            "name": "Mặt nạ ma quái",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/77650eb45ea686167327f9128590dc53583eb194634c3.png"
+        },
+        {
+            "name": "Găng giác đấu",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon60c31461246a65b82f647310a13cc35b5ef41468c818d.png"
+        },
+        {
+            "name": "Phượng hoàng lệ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/16bdc639fcd2451b890a545c4b09f6e1583eb1c5c672e.png"
+        },
+        {
+            "name": "Bùa sức mạnh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon9b4b623c7f5f3db68735401591039e6e59eec0dfee3aa.png"
+        },
+        {
+            "name": "Vòng đức hạnh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/87e8108995142053f4c9404279233a20583eb207e7793.png"
+        },
+        {
+            "name": "Dây chuyền hồng ngọc",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconc297c6ca61d3e8715eea595918f2b1d15ef49a36db0c0.png"
+        },
+        {
+            "name": "Huyết trượng",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a.png"
+        },
+        {
+            "name": "Giáp chân",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/b776c4c957f4e6f1e947e06686743a8c583eb243203f7.png"
+        },
+        {
+            "name": "Trượng hỗn mang",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconb1d589bb71a28a6cb2c3f9f5bbb2e5a05976f9dd872e8.png"
+        },
+        {
+            "name": "Tim Incubus",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/d0d241f0a2a236806b000ff5241f9802583eb2a658eed.png"
+        },
+        {
+            "name": "Trượng bùng nổ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/3cdbf8caaf2dc260fd962f5d31c074c5583eb2abdcb02.png"
+        },
+        {
+            "name": "Vương miện Hecate",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/29845a83cf9ddd3d17e0fcd07aabe61e583eb2e7b1a65.png"
+        },
+        {
+            "name": "Đai kháng phép",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/72ed5eddefd9d571f0db1fc9527d2f22583eb2fa338c8.png"
+        },
+        {
+            "name": "Găng bạch kim",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/f38b144529e66db02a901c175847440b583eb3271e7d0.png"
+        },
+        {
+            "name": "Ngọc đại pháp sư",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/5e2bc1f8eb06b085df149928bb6db37f583eb34e34945.png"
+        },
+        {
+            "name": "Giáp hiệp sĩ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/8126b39e85bcfef53fad3131bafc2cd5583eb36918dac.png"
+        },
+        {
+            "name": "Quyền trượng Rhea",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/2eabc8620f02b21582e3b88ea1f95f40583eb3ad4c294.png"
+        },
+        {
+            "name": "Thổ hệ bảo thạch",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/554a76a53137974876d42d7d093170235ef2dff4d2303.png"
+        },
+        {
+            "name": "Thập Tự Kiếm",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icona69219340114945bffc9ee0648b76df659eebed145bd2.png"
+        },
+        {
+            "name": "Giáp thống khổ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/1daf820a0922c35d2b4dfe54082d35f2583eb43c655ad.png"
+        },
+        {
+            "name": "Trượng băng",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/18a94ba7877043520ad478e08bc4b0bc583eb43f03b4d.png"
+        },
+        {
+            "name": "Hercule thịnh nộ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconce863be5ae7f9884727b453959c033e159eebee5cca80.png"
+        },
+        {
+            "name": "Mặt nạ Berith",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/722dfa95e17bc0ae4fca1370b39db24e583eb4a552d90.png"
+        },
+        {
+            "name": "Giáp cuồng nộ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/f1221bb1919f19d0ffd7aa3b9d521248583eb5022028c.png"
+        },
+        {
+            "name": "Áo choàng thần Ra",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconc412f57b9e56e33473ff1a7c87f64c3c5c8b6e31b77f7.png"
+        },
+        {
+            "name": "Khiên thất truyền",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/098ae164502918650b6334ce885d7d71583eb5aa4f7e3.png"
+        },
+        {
+            "name": "Khiên huyền thoại",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/22878b0202ea24b883044a9c642d5536583eb618cf297.png"
+        },
+        {
+            "name": "Giáp Gaia",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/9f2d442bf8b0f7597bd23de1af9c1ba9583eb6859264b.png"
+        },
+        {
+            "name": "Huân chương Troy",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/7c7e5cbc16a0a12b0363ffec0dd4bbe0583eb735ebea2.png"
+        },
+        {
+            "name": "Rìu Hyoga",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon92fdc2b012f79c163ccd767f60cb57f05875dc3ded80f.png"
+        },
+        {
+            "name": "Giáp hộ mệnh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon6b6c892834f3b9840bec892627dbeedb5b87c72793cd0.png"
+        },
+        {
+            "name": "Dây chuyền lục bảo",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon8103b0d6e1a14ff19e46c13910e854115976f9749f2ac.png"
+        },
+        {
+            "name": "Áo choàng băng giá",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon55eaf54151e5f99b1442aceb380cb3cf5853663330501.png"
+        },
+        {
+            "name": "Phù chú trường sinh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icond155d1aa807b4022dd22a16cfa171d5f5853665105cd4.png"
+        },
+        {
+            "name": "Rựa thợ săn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconfaba84adb480e565d9815a2b898bb8995bcd9218e940c.jpg"
+        },
+        {
+            "name": "Gươm hiến tế",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/13ecad971cf548f39cbf6d46243665725875ecda3ef67.png"
+        },
+        {
+            "name": "Rìu Gnoll",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/059cb0940752f504cfa9c07a88362cf45875ed3ea7997.png"
+        },
+        {
+            "name": "Đao truy kích",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/65a0e3833daa8a27a33a72e7e4e7494e5875ed8cb5193.png"
+        },
+        {
+            "name": "Gươm Loki",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/e0c0df64d8c799425e512a41035121625875eeb337a46.png"
+        },
+        {
+            "name": "Rìu Leviathan",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/5cbcea0c03cb8fbcffef6706943b59095875ef42bc1b9.png"
+        },
+        {
+            "name": "Kiếm truy hồn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/962f75587871dfe385b2eed0071fd80f5875efc662a80.png"
+        },
+        {
+            "name": "Giày thép",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/de8cb12606b2dd64c2a2ae53225453395875f0551a909.png"
+        },
+        {
+            "name": "Giày hộ vệ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/0b2a528cdd009437b1635def58e353675875f09318ffd.png"
+        },
+        {
+            "name": "Giày kiên cường",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/3a856551539a716067add52f8fc65bc65875f0c7db9e5.png"
+        },
+        {
+            "name": "Giày thuật sĩ",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/114e22fe9d424beb6fe4aca5c456c5c35875f0f2d82ec.png"
+        },
+        {
+            "name": "Giày phù thủy",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/85bfb0396118e0b32f1e3f4b34911d235875f11c6208c.png"
+        },
+        {
+            "name": "Giày du mục",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/3ff001f7078fc0b3f77e9ec7b283e2735875f14d9d0a3.png"
+        },
+        {
+            "name": "Giày Hermes",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/b86b4a1e5a5c3801f0c11fd76a8cbe0c5875f18bcc5ec.png"
+        },
+        {
+            "name": "Liềm Đoạt Mệnh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/6e4830c854d7f71dd8ad51b25d9abffd5965d8cb4027d.png"
+        },
+        {
+            "name": "Cung tà ma",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconcaa38dc0fdd84ce09ed77e83e1cfb2eb5ef414c91c813.png"
+        },
+        {
+            "name": "Vuốt Hung Tàn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/c65bf282a71890970ac6880b773460945965d91139a15.png"
+        },
+        {
+            "name": "Đao Truy Hồn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon39afcfcf7b6f28bebbf64b598f7f586b59f0056b0a481.png"
+        },
+        {
+            "name": "Thương Xuyên Phá",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/b3d3556b6bd3eaf5e90b966647b6d8a75976bb54845d9.png"
+        },
+        {
+            "name": "Sách Truy Hồn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/c9420fcfd346612dd10cfc7cc3ca9b575965da11b6b36.png"
+        },
+        {
+            "name": "Cung Gió Lốc",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/3e4d4da0fbaef18cc27b280233abd8585ac48ccdb8a36.png"
+        },
+        {
+            "name": "Cung Bão Tố",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/8f835e52d8078207bb955bc2657867ba5ac48dd56f179.png"
+        },
+        {
+            "name": "Quả cầu băng sương",
+            "imgUrl": "https://lienquan.garena.vn/files/items/iconf30f58d64f6de018d472a24497b8e8475ef414dc8c893.png"
+        },
+        {
+            "name": "Thuẫn nham thạch",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icone5253595746abc893db9abe7568410315ef414f03aac1.png"
+        },
+        {
+            "name": "Nguyên tố bảo thạch",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icona78636f147efe1ac850a5495c044a9565ef2df9dd61a3.png"
+        },
+        {
+            "name": "Đại địa nguyên lực",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/7a257cce6bde176e7e710e0aaaeb10465ef2f8b17a102.png"
+        },
+        {
+            "name": "Thuỷ triều thần khiên",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/60b763f13a61cb29ef6a43d5f83d5b2a5ef301e95cf5d.png"
+        },
+        {
+            "name": "Thuỷ triều ma nhãn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/6411929987f847ee1a50d0376dcee6e65ef30214af51c.png"
+        },
+        {
+            "name": "Đại địa Mở trói",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/28fd3e2668d2bcbfcfb0388e134a80e25ef2f87b19b17.png"
+        },
+        {
+            "name": "Thuỷ hệ bảo thạch",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/e79befc0dc5eadbb756859b82c0c8c905ef2e013d5d98.png"
+        },
+        {
+            "name": "Hoả hệ bảo thạch",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/91f6ee42e1edd1ef977729ff31d0e4c95ef2e040bb69c.png"
+        },
+        {
+            "name": "Đại địa thần khiên",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/b67b4f8212056573c0ae31af73a3dc285ef2e1136191c.png"
+        },
+        {
+            "name": "Đại địa ma nhãn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/f3b7a74dd05111ef9331216f90c70d415ef2e2abc1e74.png"
+        },
+        {
+            "name": "Đại địa huỷ diệt",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icond01185c2845c8e5e0202edb04ca2d65a5ef2e6f31963b.png"
+        },
+        {
+            "name": "Băng nhẫn Skadi",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/ff28203912b57f6855013cad060d0f8f5e45355793b4d.png"
+        },
+        {
+            "name": "Xuyên tâm lệnh",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/a93be23a737e4619fa8539820f25a8725e453576be69c.png"
+        },
+        {
+            "name": "Thuỷ triều huỷ diệt",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/9de91f7581b23e62242499868a3a2faf5ef302a1694ca.png"
+        },
+        {
+            "name": "Thuỷ triều mở trói",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/c450588cbc5d5f7aac539a18501abb785ef302df5c57c.png"
+        },
+        {
+            "name": "Thuỷ triều nguyên lực",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/4a8a5c2ab2e611ae987573f6cf22605d5ef3030a55914.png"
+        },
+        {
+            "name": "Liệt hoả thần khiên",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/b63e9646af5e1909cb2b8465905cd3885ef3032d37175.png"
+        },
+        {
+            "name": "Liệt hoả ma nhãn",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/d5d11414686db1199f7b4a669bca7b745ef30351d5e27.png"
+        },
+        {
+            "name": "Liệt hoả huỷ diệt",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/33cd9eebbdf194802513e08f573ce8545ef30375c1ea1.png"
+        },
+        {
+            "name": "Liệt hoả mở trói",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/c5c25be5f179a95a8431a2a742fd4fb95ef3039ce7293.png"
+        },
+        {
+            "name": "Liệt hoả nguyên lực",
+            "imgUrl": "https://lienquan.garena.vn/files/items/icon/cac75c8d771293e91f174ab426879f835ef303cf675a8.png"
+        }
+    ]
+}
