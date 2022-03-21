@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_app/screens/detail_news.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-
-import '../screens/runes_scr.dart';
 import '../models/news.dart';
 import '../util/fake_data.dart';
 
@@ -21,7 +19,7 @@ class _HomePage extends State<HomePage> {
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
     return Scaffold(
-        backgroundColor: const Color(0xFFE9E9E9),
+        backgroundColor: Colors.white,
         body: CustomScrollView(
           slivers: [
             const SliverAppBar(
@@ -124,7 +122,7 @@ class NewsItem extends StatelessWidget {
       borderRadius: const BorderRadius.all(Radius.circular(20)),
       child: Container(
           margin: const EdgeInsets.only(right: 5, left: 5),
-          color: Colors.white,
+          color: Color(0xFFE9E9E9),
           child: Column(children: [
             Image.network(
               newsObject.imgUrl,

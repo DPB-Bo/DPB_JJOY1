@@ -1,13 +1,16 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class ChangesNotePage extends StatefulWidget {
+import '../components/filter_search_comps.dart';
+import '../util/fake_data.dart';
+
+class ItemsPage extends StatefulWidget {
   @override
-  State<ChangesNotePage> createState() => _ChangesNotePage();
+  State<ItemsPage> createState() => _ItemsPage();
 }
 
-class _ChangesNotePage extends State<ChangesNotePage> {
-  var _selected = false;
+class _ItemsPage extends State<ItemsPage> {
+  FakeDataUtility fakeDataService = FakeDataUtility();
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
@@ -26,14 +29,10 @@ class _ChangesNotePage extends State<ChangesNotePage> {
               Container(
                 child: Column(
                   children: [
-                    FilterChip(
-                        label: Text("Codesinsider"),
-                        selected: _selected,
-                        onSelected: (value) {
-                          setState(() {
-                            _selected = value;
-                          });
-                        })
+                    FilerSearchComponent(
+                      filterControl:
+                          fakeDataService.getFilterSearchControlForItemPage(),
+                    )
                   ],
                 ),
               )

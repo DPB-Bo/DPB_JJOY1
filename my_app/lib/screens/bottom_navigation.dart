@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-import '../screens/changes_note_scr.dart';
-import '../screens/hero_wiki_scr.dart';
+import 'items_scr.dart';
+import '../components/filter_search_comps.dart';
 import '../screens/runes_scr.dart';
 import '../util/customize_icons.dart';
+import 'hero_scr.dart';
 import 'home_scr.dart';
 import 'more_options_scr.dart';
 
@@ -17,7 +18,7 @@ class BottomNavigation extends StatefulWidget {
 class _BottomNavigation extends State<BottomNavigation> {
   final List<Widget> _children = [
     HomePage(),
-    ChangesNotePage(),
+    ItemsPage(),
     RunesPage(),
     HeroWikiPage(),
     MoreOptionsPage()
