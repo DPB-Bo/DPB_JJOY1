@@ -50,7 +50,7 @@ class _HomePage extends State<HomePage> {
                       }).toList(),
                     ),
                     Container(
-                      margin: EdgeInsets.only(top: 10, bottom: 10),
+                      margin: const EdgeInsets.only(top: 10, bottom: 10),
                       child: AnimatedSmoothIndicator(
                         activeIndex: _currentPageIndex,
                         count: listUrl.length,
@@ -123,7 +123,7 @@ class NewsItem extends StatelessWidget {
     return ClipRRect(
       borderRadius: const BorderRadius.all(Radius.circular(20)),
       child: Container(
-          margin: EdgeInsets.only(right: 5, left: 5),
+          margin: const EdgeInsets.only(right: 5, left: 5),
           color: Colors.white,
           child: Column(children: [
             Image.network(
@@ -159,7 +159,7 @@ class NewsItem extends StatelessWidget {
               ),
             ),
             Container(
-              margin: EdgeInsets.only(bottom: 8, left: 4, right: 4),
+              margin: const EdgeInsets.only(bottom: 8, left: 4, right: 4),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -176,7 +176,7 @@ class NewsItem extends StatelessWidget {
                               )))),
                   Row(
                     children: [
-                      Icon(Icons.schedule, size: 11),
+                      const Icon(Icons.schedule, size: 11),
                       Align(
                         alignment: Alignment.centerLeft,
                         child: Text(newsObject.time,
