@@ -46,38 +46,53 @@ class Item extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return InkWell(
-      splashColor: Color.fromARGB(255, 188, 211, 250),
-      onTap: () {
-        print('tappp');
-        FakeDataUtility().getAllHero();
-      },
-      child: Container(
-        margin: EdgeInsets.only(left: 3, right: 3),
-        width: MediaQuery.of(context).size.width * 0.24,
-        height: 40,
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Container(
-              decoration: BoxDecoration(
-                  border: Border.all(
-                color: Color.fromARGB(255, 236, 202, 7),
-                width: 2,
-              )),
-              child: Image.network(data.imgUrl),
+    return Center(
+      child: Padding(
+        padding: EdgeInsets.all(7),
+        child: Card(
+          elevation: 12,
+          shadowColor: Colors.yellow.shade700,
+          clipBehavior: Clip.antiAlias,
+          child: InkWell(
+            splashColor: Colors.yellow.shade700,
+            onTap: (() {}),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                      border:
+                          Border.all(width: 2, color: Colors.yellow.shade700)),
+                  child: Ink.image(
+                    alignment: Alignment.topCenter,
+                    height: 70,
+                    image: AssetImage("./assets/images/short_sword.png"),
+                    fit: BoxFit.fitWidth,
+                  ),
+                ),
+                Center(
+                  child: Text("Short Sword",
+                      style: GoogleFonts.roboto(
+                        textStyle: const TextStyle(
+                            color: Colors.black87,
+                            fontSize: 9,
+                            fontWeight: FontWeight.bold),
+                      )),
+                )
+              ],
             ),
-            Text(data.name,
-                style: GoogleFonts.roboto(
-                  textStyle: const TextStyle(
-                      color: Colors.black87,
-                      letterSpacing: .5,
-                      fontSize: 14,
-                      fontWeight: FontWeight.bold),
-                ))
-          ],
+          ),
         ),
       ),
     );
   }
 }
+
+// Ink.image(
+//               fit: BoxFit.cover,
+//               image: AssetImage("./assets/images/short_sword.png"),
+//               child: InkWell(
+//                 onTap: (() {}),
+//               ),
+//             ),

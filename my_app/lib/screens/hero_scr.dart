@@ -32,6 +32,8 @@ class _HeroWikiPageState extends State<HeroWikiPage> {
                 delegate: SliverChildListDelegate(<Widget>[
               Container(
                 child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     FilerSearchComponent(
                         filterControl: fakeDataService
