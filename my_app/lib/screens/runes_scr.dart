@@ -20,10 +20,8 @@ class _RunesPage extends State<RunesPage> {
                 backgroundColor: Colors.black),
             SliverList(
                 delegate: SliverChildListDelegate(<Widget>[
-              Container(
-                child: Column(
-                  children: [Column()],
-                ),
+              Column(
+                children: [Column()],
               )
             ]))
           ],
