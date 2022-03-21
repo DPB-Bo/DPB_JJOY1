@@ -35,7 +35,7 @@ class _ItemSearchComponentState extends State<ItemSearchComponent> {
               childCount: datas.length,
             ),
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 3, childAspectRatio: 0.95, mainAxisSpacing: 3),
+                crossAxisCount: 4, childAspectRatio: 0.9, mainAxisSpacing: 4),
           );
         });
   }
@@ -60,27 +60,28 @@ class Item extends StatelessWidget {
             onTap: (() {}),
             child: Column(
               mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Container(
-                  decoration: BoxDecoration(
-                      border:
-                          Border.all(width: 2, color: Colors.yellow.shade700)),
+                ClipRRect(
+                  clipBehavior: Clip.antiAlias,
                   child: Ink.image(
                     alignment: Alignment.topCenter,
-                    height: size.height * 0.11,
+                    height: size.height * 0.08,
                     image: NetworkImage(data.imgUrl),
-                    fit: BoxFit.fitWidth,
+                    fit: BoxFit.fill,
                   ),
                 ),
                 Center(
-                  child: Text(data.name,
-                      style: GoogleFonts.roboto(
-                        textStyle: const TextStyle(
-                            color: Colors.black87,
-                            fontSize: 13,
-                            fontWeight: FontWeight.bold),
-                      )),
+                  child: FittedBox(
+                    fit: BoxFit.fitWidth,
+                    child: Text(data.name,
+                        style: GoogleFonts.roboto(
+                          textStyle: const TextStyle(
+                              color: Colors.black87,
+                              fontSize: 11,
+                              fontWeight: FontWeight.bold),
+                        )),
+                  ),
                 )
               ],
             ),
