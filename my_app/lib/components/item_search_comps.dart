@@ -31,7 +31,7 @@ class _ItemSearchComponentState extends State<ItemSearchComponent> {
                   ),
                 );
               },
-              childCount: datas?.length,
+              childCount: datas.length,
             ),
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: 4, childAspectRatio: 0.9, mainAxisSpacing: 4),
@@ -67,12 +67,12 @@ class Item extends StatelessWidget {
                   child: Ink.image(
                     alignment: Alignment.topCenter,
                     height: 70,
-                    image: AssetImage("./assets/images/short_sword.png"),
+                    image: NetworkImage(data.imgUrl),
                     fit: BoxFit.fitWidth,
                   ),
                 ),
                 Center(
-                  child: Text("Short Sword",
+                  child: Text(data.name,
                       style: GoogleFonts.roboto(
                         textStyle: const TextStyle(
                             color: Colors.black87,
