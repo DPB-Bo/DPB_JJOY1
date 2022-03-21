@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:my_app/components/item_search_comps.dart';
 
 import '../components/filter_search_comps.dart';
 import '../models/filter_search_crtl.dart';
@@ -33,12 +34,13 @@ class _HeroWikiPageState extends State<HeroWikiPage> {
                 child: Column(
                   children: [
                     FilerSearchComponent(
-                        filterControl:
-                            fakeDataService.getFilterSearchControlForHeroPage())
+                        filterControl: fakeDataService
+                            .getFilterSearchControlForHeroPage()),
                   ],
                 ),
               )
-            ]))
+            ])),
+            ItemSearchComponent()
           ],
         ));
   }
