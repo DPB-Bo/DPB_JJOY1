@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:faker/faker.dart';
 import 'package:my_app/enum/filter_search_type.dart';
 import 'package:my_app/enum/item_type.dart';
@@ -6,7 +8,12 @@ import 'package:my_app/enum/rune_type.dart';
 import '../enum/hero_type.dart';
 import '../models/filter_search_crtl.dart';
 import '../models/filter_search_data.dart';
+import '../models/hero.dart';
 import '../models/news.dart';
+// import "package:my_app/util/hero.json" show heroJSON;
+// import "package:my_app/util/item.json" show itemJSON;
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
 
 class FakeDataUtility {
   var fakerData = Faker();
@@ -86,5 +93,12 @@ class FakeDataUtility {
       FilterSearchData(RuneType.purple.label, false),
     ];
     return FilterSearchControl(FilterSearchType.rune, listfilter);
+  }
+
+  Future<List<HeroDTO>> getAllHero() async {
+    Future<String> a = rootBundle.loadString('assets/hero.json');
+    var tagObjsJson = jsonDecode(await a)['heros'] as List;
+
+    return tagObjsJson.map((tagJson) => HeroDTO.fromJson(tagJson)).toList();
   }
 }
